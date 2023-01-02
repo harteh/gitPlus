@@ -9,6 +9,10 @@
 <br>  
 
 + git clone  
+  - git clone <git_URL>  
+<br>
+
++ git remote  
   - git remote add origin <REMOTE_URL>  
   - 원격 URL 확인 : git remote -v  
   - 원격 리포지토리 이름 변경 : git remote rename 기존이름 새로운이름  
@@ -23,6 +27,5 @@
 
 <br>
 
-### test
-+ 0806 B
-+ 0805 Y
+### javascript-for-beginner  
+바닐라 JS로 크롬 앱 만들기  
